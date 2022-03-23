@@ -1,0 +1,7 @@
+.ui.grid > .column:not(.row),
+.ui.grid > .row > .column {
+  width: auto;
+}
+.ui.cards {
+  margin: 0;
+}
